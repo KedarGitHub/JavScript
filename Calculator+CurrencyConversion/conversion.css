@@ -1,0 +1,34 @@
+h1{
+    text-align:centre;
+    color: white;
+    margin-left: 20px;
+}
+
+label{
+    text-align:centre;
+    color: white;
+}
+p{
+    text-align:centre;
+    color: white;
+}
+
+body {
+    margin-left: 20px;
+    background-image: url("./money.jpg");
+    background-position: center;
+    background-attachment: scroll;
+    background-size: 1550px;
+}
+
+  div{
+      background-color  : rgba(0, 128, 0, 0.3) ;/* Green background with 30% opacity */
+      color:white;
+      border: 1px solid #4CAF50;
+      padding-top: 10px;
+      padding-right: 10px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+  }
+
+  

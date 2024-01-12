@@ -1,0 +1,5 @@
+<!--ctrl+b-->  = hides the left panel
+
+type doc, then tab in an html file to get the basic backbone structure
+
+install live server- this makes a computer a server
